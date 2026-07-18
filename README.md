@@ -77,7 +77,7 @@
 | 半年高能版 | 半年 | ¥137 | ✅ 可选 |
 | 年度究极版 | 年 | ¥245 | 🔥 极力推荐 |
 
-> **👉 [点击前往 一翻云 官网查看详情](https://wzjc.1flyunaff.cc/#/register?code=sX5SIPqg)**
+> **👉 [点击前往 一翻云 官网查看详情](https://wzjc.1flyunaff.cc/#/register?code=JSuuoEmO)**
 
 ---
 
