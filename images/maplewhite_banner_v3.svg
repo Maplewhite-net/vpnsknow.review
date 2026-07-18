@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="50%" stop-color="#eff6ff"/>
+      <stop offset="100%" stop-color="#dbeafe"/>
+    </linearGradient>
+    <linearGradient id="text-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1e3a8a"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+    <path id="maple-leaf" d="M 50,0 L 60,30 L 90,20 L 70,50 L 100,70 L 65,75 L 75,110 L 50,90 L 25,110 L 35,75 L 0,70 L 30,50 L 10,20 L 40,30 Z" fill="#bfdbfe" opacity="0.6"/>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="300" fill="url(#bg-grad)" rx="16" ry="16"/>
+
+  <!-- Decorative Leaves -->
+  <g transform="translate(180, 80) scale(1.8) rotate(-15)">
+    <use href="#maple-leaf"/>
+  </g>
+  <g transform="translate(950, 50) scale(2.2) rotate(35)">
+    <use href="#maple-leaf"/>
+  </g>
+  <g transform="translate(80, 180) scale(1.2) rotate(45)">
+    <use href="#maple-leaf"/>
+  </g>
+
+  <!-- Main Text -->
+  <text x="600" y="160" font-family="-apple-system, BlinkMacSystemFont, 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="76" font-weight="900" fill="url(#text-grad)" text-anchor="middle" letter-spacing="8">
+    枫白网络机场
+  </text>
+  
+  <!-- Sub Text -->
+  <text x="600" y="215" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif" font-size="22" font-weight="700" fill="#475569" text-anchor="middle" letter-spacing="16">
+    MAPLE WHITE
+  </text>
+</svg>
