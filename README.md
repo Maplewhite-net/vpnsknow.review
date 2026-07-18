@@ -1,5 +1,5 @@
 
-![枫白机场网络](./images/maplewhite_banner.png)
+![枫白机场网络](./images/maplewhite_banner_v2.png)
 
 # 🏆 2026 最新稳定机场推荐 - 翻墙节点/流媒体解锁/专线加速指南
 
